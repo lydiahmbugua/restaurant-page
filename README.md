@@ -1,4 +1,4 @@
-# 🎵 The Main Stage — A Concert-Themed Restaurant Page
+# 🎵 The SetList — A Concert-Themed Restaurant Page
 
 A dynamic, music-inspired restaurant menu page built with vanilla JavaScript and bundled with Webpack. Every dish on the menu is a tribute to a beloved artist.
 
